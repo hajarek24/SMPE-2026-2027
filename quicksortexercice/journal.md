@@ -1,5 +1,7 @@
 # Parallel Quicksort: my performance evaluation journal
 
+The code, scripts and raw data are in the folder [`quicksortfork`](../quicksortfork) of this repository.
+
 ## 1. Objective
 
 A multi-threaded quicksort was written in C (src/parallelQuicksort.c, Pthreads). It is stated that it saves time, and the author's notes say it becomes worth it above about 400,000 elements.
