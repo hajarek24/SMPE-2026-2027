@@ -1,6 +1,6 @@
 # Parallel Quicksort: my performance evaluation journal
 
-The code, scripts and raw data are in the folder [`quicksortfork`](../quicksortfork) of this repository.
+The code, scripts and raw data are in the folder [`quicksortfork`](quicksortfork) of this repository.
 
 ## 1. Objective
 
